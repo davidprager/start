@@ -1,5 +1,5 @@
 """
-CSCI-UA.0060 Spring 2024
+CSCI-UA.0060 Spring 2025
 Test Program
 """
 # This program will make sure that you are able to edit a simple program in GitHub
